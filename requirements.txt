@@ -1,0 +1,7 @@
+pip
+telegram
+configparser
+redis
+python-telegram-bot==13.15
+urllib3
+requests
